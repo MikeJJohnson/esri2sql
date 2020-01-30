@@ -6,6 +6,8 @@ This script aims to convert ESRI xml schema into PostgreSQL to create an open en
 ## Usage:
 python esri2sql.py yourschema.xml
 
+the output will go to sdtout, pipe it somewhere useful
+
 NB: This requires some other librarys which are all available in pip
 
 
